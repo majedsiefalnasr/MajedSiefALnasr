@@ -24,35 +24,35 @@ I'm Majed Sief Alnasr. I design interfaces that users love to use. Over 6 years 
 
 <p align="left">
   <a href="https://facebook.com/MagedSiefAlnasr" target="_blank">
-    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/facebook.svg" alt="majedsiefalnasr" height="48" width="48" />
+    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/facebook.svg" alt="majedsiefalnasr" height="32" width="32" />
   </a>
   &nbsp;
   <a href="" target="_blank">
-    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/instagram.svg" alt="majedsiefalnasr" height="48" width="48" />
+    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/instagram.svg" alt="majedsiefalnasr" height="32" width="32" />
   </a>
   &nbsp;
   <a href="" target="_blank">
-    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/linkedin.svg" alt="majedsiefalnasr" height="48" width="48" />
+    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/linkedin.svg" alt="majedsiefalnasr" height="32" width="32" />
   </a>
   &nbsp;
   <a href="" target="_blank">
-    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/dribble.svg" alt="majedsiefalnasr" height="48" width="48" />
+    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/dribble.svg" alt="majedsiefalnasr" height="32" width="32" />
   </a>
   &nbsp;
   <a href="" target="_blank">
-    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/behance.svg" alt="majedsiefalnasr" height="48" width="48" />
+    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/behance.svg" alt="majedsiefalnasr" height="32" width="32" />
   </a>
   &nbsp;
   <a href="" target="_blank">
-    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/twitter.svg" alt="majedsiefalnasr" height="48" width="48" />
+    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/twitter.svg" alt="majedsiefalnasr" height="32" width="32" />
   </a>
   &nbsp;
   <a href="" target="_blank">
-    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/pinterest.svg" alt="majedsiefalnasr" height="48" width="48" />
+    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/pinterest.svg" alt="majedsiefalnasr" height="32" width="32" />
   </a>
   &nbsp;
   <a href="" target="_blank">
-    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/stackoverflow.svg" alt="majedsiefalnasr" height="48" width="48" />
+    <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/stackoverflow.svg" alt="majedsiefalnasr" height="32" width="32" />
   </a>
 </p>
 
