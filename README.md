@@ -1,4 +1,4 @@
-[![Majed Sief Alnasr - UI/UX & Product Designer, Co-Founder, TIA UX Studio](https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/Cover6.png)](https://www.majedsiefalnasr.com/)
+[![Majed Sief Alnasr - UI/UX & Product Designer, Co-Founder, TIA UX Studio](https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/Cover8.png)](https://www.majedsiefalnasr.com/)
 
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
