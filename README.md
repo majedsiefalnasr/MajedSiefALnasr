@@ -26,6 +26,7 @@ I'm Majed Sief Alnasr. I design interfaces that users love to use. Over 6 years 
   <a href="https://facebook.com/MagedSiefAlnasr" target="_blank" style="margin-right:12px;">
     <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/facebook.svg" alt="majedsiefalnasr" height="48" width="48" />
   </a>
+  &nbsp;
   <a href="" target="_blank" style="margin-right:12px;">
     <img align="center" src="https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/master/images/instagram.svg" alt="majedsiefalnasr" height="48" width="48" />
   </a>
