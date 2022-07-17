@@ -1,4 +1,4 @@
-![Majed Sief Alnasr - UI/UX & Product Designer](https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/main/images/Cover.png) 
+![Majed Sief Alnasr - UI/UX & Product Designer]([https://github.com/majedsiefalnasr/MajedSiefALnasr/blob/main/images/Cover.png](https://raw.githubusercontent.com/majedsiefalnasr/MajedSiefALnasr/master/images/Cover.png)) 
 
 ## Realizing the unimagined. Digital ecosystems, platforms, products through innovation and design.
 
