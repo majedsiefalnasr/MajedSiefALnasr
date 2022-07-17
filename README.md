@@ -7,7 +7,7 @@
 
 <!-- About me -->
 <p>
-I'm Majed Sief Alnasr. I design interfaces that users love to use. Over 6 years of industry experience with expertise in UI/UX design and web development. I help businesses by designing human-centered digital experiences.
+I'm Majed Sief Alnasr, UI/UX & Product Designer, Co-Founder, TIA UX Studio. I design interfaces that users love to use. Over six years of industry experience with expertise in UI/UX design and web development. I help businesses by designing human-centered digital experiences.
 </p>
 
 <!-- Personal Stuffs -->
