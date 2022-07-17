@@ -17,7 +17,7 @@ I'm Majed Sief Alnasr, UI/UX & Product Designer, Co-Founder, TIA UX Studio. I de
 
 - 📝 I regulary write articles on **[Majed's Blog](https://blog.majedsiefalnasr.com)**
 
-- 📫 How to reach me **[Majed Sief Alnasr](https://majedsiefalnasr.com)**
+- 📫 How to reach me **[Majed's portfolio](https://majedsiefalnasr.com)**
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
